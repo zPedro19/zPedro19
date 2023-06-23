@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**zPedro19/zPedro19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learn a Little More About Me Here.
 
-Here are some ideas to get you started:
+- 💻 | I started studying programming in May 2023 and ended up falling in love with everything I can create.
+- 🎓 | I'm Currently Attending The 3rd Year Of High School.
+- 📚 | In the year 2024, they began to study systems analysis and development.
+- ⚡ | In my spare time I really like to play ball and play Counter-Striker with my friends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### languages ​​That I'm Delving Into At The Moment.:
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
