@@ -4,7 +4,7 @@ Learn a Little More About Me Here.
 - 💻 | I started studying programming in May 2023 and ended up falling in love with everything I can create.
 - 🎓 | I'm Currently Attending The 3rd Year Of High School.
 - 📚 | In the year 2024, they began to study systems analysis and development.
-- ⚡ | In my spare time I really like to play ball and play Counter-Striker with my friends.
+- ⚡ | In My Spare Time I Really Like To Play Soccer And Play Counter-Striker With My Friends.
 
 ### languages ​​That I'm Delving Into At The Moment.:
 
