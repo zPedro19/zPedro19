@@ -1,12 +1,11 @@
 
 Learn a Little More About Me Here.
 
-- 💻 | I started studying programming in May 2023 and ended up falling in love with everything I can create.
-- 🎓 | I'm Currently Attending The 3rd Year Of High School.
-- 📚 | 2024, I'll start studying systems analysis and development.
-- ⚡ | In My Spare Time I Really Like To Play Soccer And Play Counter-Striker With My Friends.
+- 💻 | I started programming in May 2023 and ended up being astonished with how much I can create.
+- 📚 | Planing to study systems analysis and development.
+- ⚡ | I also play soccer and counter-striker with my friends.
 
-### languages ​​That I'm Delving Into At The Moment.:
+### Languages ​​that I'm diving into at the moment:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
