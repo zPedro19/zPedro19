@@ -14,6 +14,6 @@ Learn a Little More About Me Here.
 </br>
 ### Languages that I speak fluently
 
-<p><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="26" style="border-radius:50%;"> Portuguese ★★★★★</a></p>
-<p><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="26" style="border-radius:50%;"> English ★★★☆☆</a></p>
-<p><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="26" style="border-radius:50%;"> Spanish ★★☆☆☆</a></p>
+<p><a href="README.md"><img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/br.svg" height="26" style="border-radius:50%;"> Portuguese ★★★★★</a></p>
+<p><a href="README_pt.md"><img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/gb.svg" height="26" style="border-radius:50%;"> English ★★★☆☆</a></p>
+<p><a href="README_pt.md"><img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/es.svg" height="26" style="border-radius:50%;"> Spanish ★★☆☆☆</a></p>
