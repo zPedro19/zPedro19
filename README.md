@@ -15,7 +15,9 @@ Learn a Little More About Me Here.
 </br>
 Languages</br>
 <tr><td><a href="README.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> Portuguese ★★★★★</a></td></tr></br>
+</br>
 <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197484.svg" height="15"> English ★★★☆☆</a></td></tr></br>
+</br>
 <tr><td><a href="README_pt.md"><img src="https://github.com/milaan9/milaan9/blob/main/197408.svg" height="15"> Espanish ★★☆☆☆</a></td></tr></br>
 
 
