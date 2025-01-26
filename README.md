@@ -2,7 +2,7 @@
 Learn a Little More About Me Here.
 
 - 💻 | I started programming in May 2023 and ended up being astonished with how much I can create.
-- 📚 | Planing to study software engineering.
+- 📚 | I study software engineering.
 - ⚡ | I also play soccer and counter-striker with my friends.
 
 ### Languages ​​that I'm diving into at the moment:
