@@ -23,7 +23,7 @@
 <img align="left" alt="Spanish" width="32px" src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/svg/es.svg"/> 
 <br><br>
 
-## Connect with Me
+
 <div align="center">
     <a href="https://www.linkedin.com/in/opedrofelix/" target="_blank">
         <img align="center" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="margin: 0 20px;" />
